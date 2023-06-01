@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "MDEV1001-ASSIGNMENT",
+            "database": "${workspaceFolder:MDEV1001-M2023-ASSIGNMENT}/ASSIGNMENT"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "assignment",
+            "database": "${workspaceFolder:MDEV1001-M2023-ASSIGNMENT}/ASSIGNMENT"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+movieID,title,studio,genres,directors,writers,actors,year,length,shortDescription,mpaRating,criticsRating
+1,Star Wars: Episode V - The Empire Strikes Back,Twentieth Century Fox,"Action, Adventure, Fantasty",Irvin Kershner,"Leigh Brackett, 
+Lawrence Kasdan,
+George Lucas","Mark Hamill,
+Harrison Ford,
+Carrie Fisher",1980,124,"After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",PG,8.7
+2,The Matrix,Warner Bros. Pictures,"Action,
+Sci-Fi","Lana Wachowski,
+Lilly Wachowski","Lana Wachowski,
+Lilly Wachowski","Keanu Reaves,
+Laurence Fishburne,
+Carrie-Anne Moss",1999,136,"When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",R,8.7
+3,Star Wars: Episode IV - A New Hope,Twentieth Century Fox,"Action, Adventure, Fantasty",George Lucas,George Lucas,"Mark Hamill,
+Harrison Ford,
+Carrie Fisher",1977,121,"Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",PG,8.6
+4,Back to the Future,Universal Pictures,"Adventure,
+Comedy,
+Sci-Fi",Robert Zemeckis,"Robet Zemeckis,
+Bob Gale","Michael J. Fox,
+Christopher Lloyd,
+Lea Thompson",1985,116,"Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",PG,8.5
+5,Alien,Twentieth Century Fox,"Horror,
+Sci-Fi",Ridley Scott,"Dan O'Bannon,
+Ronald Shusett","Sigourney Weaver,
+Tom Skerritt,
+John Hurt",1979,117,The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.,R,8.5
+6,Raiders of th Lost Ark,Paramount Pictures,"Action, Adventure",Steven Spielberg,"Lawrence Kasdan, 
+George Lucas, 
+Philip Kaufman","Harrison Ford, 
+Karen Allen,
+Paul Freeman",1981,115,"In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",PG,8.4
+7,Blade Runner,Warner Bros. Pictures,"Action, Drama,
+Sci-Fi",Ridley Scott,"Hampton Fancher, 
+David Webb Peoples, 
+Philip K. Dick","Harrison Ford, 
+Rutger Hauer, 
+Sean Young",1982,117,A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.,R,8.1
+8,The Terminator,Orion Pictures,"Action,
+Sci-Fi",James Cameron,"James Cameron,
+Gale Anne Hurd,
+William Wisher","Arnold Schwarzenegger, 
+Linda Hamilton, 
+Michael Biegn",1984,107,"A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",R,8.1
+9,The Princess Bride,Twentieth Century Fox,"Adventure,
+Comedy,
+Family",Rob Reiner,William Goldman,"Cary Elwes,
+Mandy Patinkin,
+Robin Wright",1987,98,"A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",PG,8.0
+10,Star Trek II: The Wrath of Khan,Paramount Pictures,"Action,
+Adventure,
+Sci-Fi",Nicholas Meyer,"Gene Roddenberry,
+Jack B. Sowards,
+Harve Bennett","William Shatner,
+Leonard Nimoy,
+DeForest Kelley",1982,113,"With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using the life-generating Genesis Device as the ultimate weapon.",PG,7.7
+11,Dangal ,Aamir Khan Studios,"Biographical,Sports",Nitesh Tiwari,Nitesh Tiwari,"Aamir Khan,Fatima Sana Shaikh,Sakshi Tanwar",2016,161,A former wrestler trains his daughters in wrestling.,PG,8.4
+12,Sanju ,Rajkumar ,"Biography,Drama",Rajkumar Hirani,Rajkumar Hirani,"Ranbir Kapoor,Vicky Kaushal ,Paresh Rawal",2018,161,A biographical film based on the life of Sanjay Dutt.,PG,7.8
+13,PK,Vinod,"Comedy,Drama,Fantasy",Rajkumar Hirani,Rajkumar Hirani,"Aamir Khan,Anushka Sharma,Sushant Singh Rajput",2014,153,An alien arrives on Earth and questions religious beliefs.,PG,8.1
+14,Golmaal,Rohit Shetty,Comedy,Rohit Shetty,Rohit Shetty,"Ajay Devgn,Arshad Warsi,Tusshar Kapoor",2006,150,A group of friends gets involved in hilarious situations.,PG,7.3
+15,Tiger,Yash Raj,"Action,Thriller,Romance",Ali Abbas Zafar,Ali Abbas Zafar,"Salman Khan,Katrina Kaif,Girish Karnad",2017,161,An Indian spy is sent on a mission to save his country.,R,5.0
+16,Bajrangi Bhaijaan,Salman Khan,"Adventure,Comedy, Drama",Kabir Khan,Kabir Khan,"Salman Khan,Kareena Kapoor,Nawazuddin Siddiqui",2015,163,A man helps a lost Pakistani girl reunite with her family.,PG,8.0
+17,Padmaavat,Bhansali,"Drama,History,Romance",Sanjay Leela Bhansali,Sanjay Leela Bhansali,"Deepika Padukone,Shahid Kapoor,Ranvir Singh",2018,164,A historical drama about a queen and a king’s obsession.,G,7.0
+18,Sultan,Yash Raj,"Action,Drama,Romance",Ali Abbas Zafar,Ali Abbas Zafar,"Salman Khan,Anushka Sharma,Randeep Hooda",2016,170,A wrestler fights personal and professional challenges.,G,7.0
+19,3 Idiots,Vinod,"Comedy,Drama",Rajkumar Hirani,Rajkumar Hirani,"Aamir Khan,R.Madhavan,Sharman Joshi",2009,170,Three friends embark on a journey to find their lost friend.,PG,8.4
+20,Kabir Singh,Cine1,"Drama,Romance",Sandeep Reddy Vanga,Sandeep Reddy Vanga,"Shahid Kapoor,Kiara Adani",2019,172,"An exalted but short-fused surgeon plunges into a spiral of drugs, alcohol and rage after his intense relationship with his girlfriend turbulently ends.",PG,7.0
